@@ -1,0 +1,14 @@
+tensorflow==2.14.1
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+pandas
+pyttsx3
+gTTS
+kaggle
+librosa
+soundfile
+fastapi
+uvicorn[standard]
+python-multipart
