@@ -140,3 +140,5 @@ asl_alphabet_train/
 asl_alphabet_test/
 asl_split/
 saved_model/
+asl_best_model.h5
+asl_class_indices.npy
